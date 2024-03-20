@@ -6,7 +6,6 @@ BookStore is a full-stack web application built using the MERN stack (MongoDB, E
 
 - **CRUD Operations:** Browse, add, edit, and delete books.
 - **Admin Panel:** Add, edit, and delete books.
-- **User Authentication:** Secure sign-up and login functionality.
 
 ## 🛠️ Technologies Used
 
