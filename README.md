@@ -23,11 +23,3 @@ npm start
 ```
 
 3. **Access the application at** [http://localhost:3000](http://localhost:3000).
-
-## Contributing
-
-Contributions are welcome! Fork the repository, create a new branch, and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
